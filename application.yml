@@ -3,12 +3,12 @@ spring:
     active: dev
 ---
 spring:
-  profiles: dev  #¿ª·¢
+  profiles: dev  #å¼€å‘
   application:  
     name: microservicecloud-config-atguigu-dev
 ---
 spring: 
-  profiles: test¢ƒ
+  profiles: testî•¨
   application: 
     name: microservicecloud-config-atguigu-test
  
